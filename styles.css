@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px;
+}
+
+.heading {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.message {
+    color: #666;
+    font-size: 1.2em;
+}
+
+.image {
+    width: 200px;
+    margin-top: 20px;
+}
